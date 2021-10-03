@@ -1,0 +1,26 @@
+
+.main{
+
+
+  background-image: url(./myimage/2398638.jpg);
+  
+  height: 100vh;
+
+  background-size: cover;
+  color: aqua;
+  
+  }
+
+
+.button{
+
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
